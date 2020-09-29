@@ -1,0 +1,41 @@
+
+body {
+/* background-color: rgb(119, 119, 119);   */
+background-image: url(images/pastelpink.jpg);
+}
+
+h1 {
+    color: peachpuff;
+    font-size: 40px;
+    text-align: center;
+    margin: 70px;
+    border-color: rgb(8, 7, 7);
+    border-style: solid;
+    padding: 30px;
+    background-color: rgb(0, 0, 0, 0.5)
+}
+
+h2 {
+    color: peachpuff;
+    font-size: 25px;
+    text-align: center;
+    margin: 70px;
+    border-color: rgb(155, 155, 155);
+    border-style: solid;
+    padding: 30px;
+    background-color:  rgb(0, 0, 0, 0.5)
+}
+
+p {
+    color: peachpuff;
+    text-align: center;
+    margin: 70px;
+    border-color: rgb(155, 155, 155);
+    border-style: solid;
+    padding: 30px;
+    background-color: rgb(0, 0, 0, 0.5)
+
+
+
+
+}
